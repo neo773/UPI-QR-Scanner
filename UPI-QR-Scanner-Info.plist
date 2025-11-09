@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>gpay</string>
+		<string>phonepe</string>
+		<string>paytmmp</string>
+		<string>upi</string>
+		<string>whatsapp</string>
+		<string>amazonpay</string>
+		<string>credpay</string>
+		<string>mobikwik</string>
+		<string>payzapp</string>
+		<string>paytmpb</string>
+		<string>kotak811</string>
+	</array>
+</dict>
+</plist>
