@@ -6,6 +6,10 @@
 # UPI QR Scanner
 
 A clean, fast UPI QR scanner for iPhone that launches straight into your preferred payment app — no menus, no extra taps. Optimized for the Action Button.
+<br>
+
+<img width="300" alt="Screenshot 2025-11-09 at 8 56 08 PM" src="https://github.com/user-attachments/assets/122703d6-2b6b-490e-a7a2-938b5a082c58" />
+
 
 https://github.com/user-attachments/assets/c27745c0-8463-46b2-8506-3d705c5f89c2
 
